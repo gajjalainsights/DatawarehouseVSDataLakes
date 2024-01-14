@@ -15,3 +15,8 @@ Data Lakes
 - It is Cost Effective.
 - Data needs to be catalogued, otherwise it becomes a data Swamp
 - Runs Big Data Analytics
+
+Data Lake Solutions: 
+  * Amazon S3
+  * Azure Data Lake Storage
+  * Google Data Lake
